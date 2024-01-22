@@ -1,0 +1,30 @@
+lista_de_nomes = [
+    'abacate', 'abelha', 'abraço', 'açúcar', 'adesivo', 'água', 'alicate', 'amarelo', 'amigo', 'amor', 
+    'andar', 'anel', 'aniversário', 'ansioso', 'apresentação', 'arco-íris', 'areia', 'árvore', 'aventura', 
+    'azedo', 'bacalhau', 'bala', 'banana', 'barulho', 'beleza', 'bem-vindo', 'biscoito', 'borboleta', 'brilhante', 
+    'buraco', 'cabelo', 'cachorro', 'caderno', 'café', 'caminho', 'caneta', 'carro', 'casamento', 'cavalheiro', 
+    'celebrar', 'cerveja', 'champanhe', 'cheiro', 'chocolate', 'chuva', 'cidade', 'coelho', 'colina', 'comida', 
+    'companheiro', 'computador', 'concerto', 'coração', 'cores', 'coruja', 'criança', 'cristal', 'cuidado', 'cultura', 
+    'cura', 'dança', 'dente', 'descobrir', 'desejo', 'deslumbrante', 'destino', 'diário', 'diamante', 'difícil', 
+    'dinheiro', 'dourado', 'elegante', 'eletricidade', 'elevador', 'elétrico', 'emocionante', 'encontro', 'energia', 
+    'enigma', 'entusiasmo', 'equilíbrio', 'escada', 'escola', 'escuro', 'esmeralda', 'esperança', 'esplêndido', 'estrela', 
+    'experiência', 'fascinante', 'feitiço', 'felicidade', 'feriado', 'festa', 'fevereiro', 'fio', 'floresta', 'flor', 
+    'fofo', 'folha', 'fonte', 'fotografia', 'fragrância', 'fruta', 'fugir', 'fumaça', 'futuro', 'gargalhada', 
+    'garrafa', 'gelado', 'gentileza', 'girassol', 'glaciar', 'gosto', 'gota', 'grande', 'gratidão', 'gruta', 
+    'guarda-chuva', 'harmonia', 'horizonte', 'hospedagem', 'iceberg', 'ideia', 'iluminado', 'imagem', 'impressão', 'incrível', 
+    'indescritível', 'infinito', 'inspiração', 'inteligente', 'inverno', 'início', 'janela', 'jardim', 'joia', 
+    'jornada', 'juventude', 'labirinto', 'lampião', 'leveza', 'lindo', 'livro', 'lua', 'luz', 'magia', 
+    'mágico', 'majestoso', 'manhã', 'maravilha', 'matiz', 'meditar', 'mensagem', 'meta', 'misterioso', 'momento', 
+    'montanha', 'morango', 'motivação', 'mundo', 'musical', 'natureza', 'navio', 'ninho', 'nostalgia', 'notável', 
+    'novidade', 'nuvem', 'oásis', 'observação', 'oceano', 'olhar', 'orvalho', 'outono', 'ousadia', 'paciência', 
+    'palavra', 'paraíso', 'paz', 'perceber', 'perfeito', 'perspectiva', 'pétala', 'piano', 'pintura', 'pôr do sol', 
+    'precioso', 'presente', 'primavera', 'prisma', 'profundo', 'pureza', 'quintal', 'raio', 'raízes', 'realidade', 
+    'recife', 'reflexão', 'relaxar', 'revoada', 'riso', 'rocha', 'rosa', 'sabor', 'sagrado', 'saudade', 
+    'selva', 'serenidade', 'silêncio', 'simplicidade', 'sinfonia', 'singular', 'sorriso', 'sorte', 'sonho', 'sossego', 
+    'souvenir', 'suave', 'sublime', 'sutil', 'tardinha', 'tempo', 'ternura', 'tesouro', 'tijolo', 'tranquilidade', 
+    'transbordar', 'transformação', 'travesseiro', 'tremor', 'trilha', 'truque', 'tulipa', 'turquesa', 'universo', 
+    'valente', 'verde', 'verdor', 'vermelho', 'verso', 'viagem', 'vida', 'vigília', 'violeta', 'vislumbre', 
+    'viver', 'voo', 'vontade', 'zênite', 'zero', 'zigurate', 'zumbido', 'zunido', 'zênite', 'zíper', 'zoológico'
+]
+
+
